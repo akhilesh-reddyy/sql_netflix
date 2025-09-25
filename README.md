@@ -25,3 +25,7 @@ Title, Director, Cast
 Country, Date Added, Release Year
 
 Rating, Duration, Genre, Description
+
+🗄️ Database Schema
+
+<img width="385" height="385" alt="image" src="https://github.com/user-attachments/assets/684d16f1-3101-43c7-8d08-ce748a262646" />
