@@ -1,4 +1,5 @@
 🎬 Netflix SQL Analysis Project
+
 📌 Overview
 
 This project performs a comprehensive SQL-based analysis of Netflix’s movies and TV shows dataset. The goal is to extract business insights such as content distribution, trends, and geographical analysis.
@@ -15,7 +16,7 @@ Categorize content based on genres, keywords, and other metadata
 
 📂 Dataset
 
-Source: Kaggle Netflix Dataset
+Source: https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download
 
 Contains information about movies and TV shows including:
 
